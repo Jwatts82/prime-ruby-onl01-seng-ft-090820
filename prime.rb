@@ -1,4 +1,4 @@
 # Add  code here!
 def prime?(number)
-  true = 2
-  (prime?(-1))
+  start = 2
+  (prime?(-1)) start, number
